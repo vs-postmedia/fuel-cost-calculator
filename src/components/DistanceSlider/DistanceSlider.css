@@ -1,4 +1,4 @@
-.distance-container {
+.App .distance-container {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
@@ -6,16 +6,16 @@
 	margin-left: 2%;
 	width: 95%;
 }
-.distance-container p {
+.App .slider-header {
 	align-self: flex-end;
 	flex-grow: 1.5;
 	margin-top: 0;
 }
 
-.rc-slider {
+.App .rc-slider {
 	margin-top: 5px;
 }
-.slider-result {
+.App .slider-result {
 	color: #0062A3;
 	align-self: flex-end;
 	font-size: 1.5rem;
@@ -46,7 +46,7 @@
 
 @media only screen and (min-width: 550px) {
     /* Style adjustments for viewports that meet the condition */
-	.distance-container > * {
+	.App .distance-container > * {
 		flex: 1;
 		margin: 0.25rem 0.5rem;
 	}
