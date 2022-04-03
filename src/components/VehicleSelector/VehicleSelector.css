@@ -1,0 +1,20 @@
+.vehicle-selector {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 40px;
+}
+
+.vehicle-selector h3 {
+	width: 100%;
+}
+.vehicle-selector .half-width {
+	flex: 1;
+	padding: 5px;
+}
+
+
+.vehicle-selector .full-width {
+	padding: 5px;
+	width: 100%;
+}

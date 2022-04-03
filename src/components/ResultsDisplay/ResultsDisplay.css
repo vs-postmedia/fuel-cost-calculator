@@ -1,0 +1,25 @@
+.results-container {
+	margin: 0 auto;
+	max-width: 450px;
+}
+.App .results-no-display {
+	font-family: 'BentonSansCond-RegItalic', sans-serif;
+	font-size: 2rem;
+	max-width: 450px;
+	text-align: center;
+}
+.App .results-no-display .up-arrow {
+	font-size: 1.5rem;
+}
+.App .results-display {
+	font-size: 2.25rem;
+	margin-top: 10px;
+	max-width: 450px;
+	text-align: center;
+}
+.App .price {
+	color: #0062A3;
+	font-family: 'BentonSansCond-Bold', sans-serif;
+	font-size: 2.75rem;
+	font-weight: 800;
+}

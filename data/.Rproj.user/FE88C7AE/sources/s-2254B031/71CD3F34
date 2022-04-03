@@ -1,0 +1,27 @@
+{
+    "id": "71CD3F34",
+    "path": "~/stories/_projects/gas-cost-calculator/data/scripts/data-prep.R",
+    "project_path": "scripts/data-prep.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1649011178412.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649013379,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649013605880,
+    "read_only": false,
+    "read_only_alternatives": []
+}

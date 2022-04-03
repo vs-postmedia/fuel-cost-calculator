@@ -1,11 +1,13 @@
 .App footer {
+	/*display: flex;*/
 	margin-top: 3rem;
 }
 
 .App footer .source {
 	color: var(--grey02);
-	font-family: 'BentonSansCond-RegItalic', sans-serif;
-	font-size: 1rem;
+	/*flex: 0 0 100%;*/
+	font-family: 'BentonSansCond-RegItalic', italic;
+	font-size: 0.8rem;
 	margin-top: 3px;
 }
 

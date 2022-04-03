@@ -1,0 +1,21 @@
+.gas-slider-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-left: 2%;
+	width: 95%;
+}
+.gas-slider-container p {
+	align-self: flex-end;
+	flex-grow: 1.5;
+	margin-top: 0;
+}
+@media only screen and (min-width: 550px) {
+    /* Style adjustments for viewports that meet the condition */
+    
+	.gas-slider-container > * {
+		flex: 1;
+		margin: 0.25rem 0.5rem;
+	}
+	
+}

@@ -1,12 +1,16 @@
 {
-  "name": "react-template",
-  "homepage": "https://vs-postmedia.github.io/react-template/",
+  "name": "fuel-cost-calculator",
+  "homepage": "https://vs-postmedia.github.io/fuel-cost-calculator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.26.1",
+    "d3-dsv": "^3.0.1",
+    "rc-slider": "^8.6.13",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^4.0.3",
+    "react-select": "^3.0.4"
   },
   "scripts": {
     "predeploy": "npm run build",

@@ -1,14 +1,14 @@
 import React from 'react';
-import Footer from '../Footer/Footer';
-
+import FuelCalculator from '../FuelCalculator/FuelCalculator';
 import './App.css';
 
+const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/misc/gas-cost-calculator-data.csv'
 
 function App() {
 	return (
 	  	<div className="App">
-	  		<h1>React template</h1>
-	  		<Footer></Footer>
+	  		<h1>Gas cost calculator</h1>
+	  		<FuelCalculator dataUrl={dataUrl}></FuelCalculator>
 	  	</div>
 	);
 }
