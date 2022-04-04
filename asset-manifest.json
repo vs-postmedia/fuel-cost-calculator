@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fuel-cost-calculator/static/css/main.7192a36a.chunk.css",
-    "main.js": "/fuel-cost-calculator/static/js/main.e2b8a571.chunk.js",
-    "main.js.map": "/fuel-cost-calculator/static/js/main.e2b8a571.chunk.js.map",
+    "main.css": "/fuel-cost-calculator/static/css/main.3cdad599.chunk.css",
+    "main.js": "/fuel-cost-calculator/static/js/main.dda260c9.chunk.js",
+    "main.js.map": "/fuel-cost-calculator/static/js/main.dda260c9.chunk.js.map",
     "runtime-main.js": "/fuel-cost-calculator/static/js/runtime-main.b6702cd0.js",
     "runtime-main.js.map": "/fuel-cost-calculator/static/js/runtime-main.b6702cd0.js.map",
     "static/css/2.21b75788.chunk.css": "/fuel-cost-calculator/static/css/2.21b75788.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.bea8bea5.chunk.js.map": "/fuel-cost-calculator/static/js/2.bea8bea5.chunk.js.map",
     "index.html": "/fuel-cost-calculator/index.html",
     "static/css/2.21b75788.chunk.css.map": "/fuel-cost-calculator/static/css/2.21b75788.chunk.css.map",
-    "static/css/main.7192a36a.chunk.css.map": "/fuel-cost-calculator/static/css/main.7192a36a.chunk.css.map",
+    "static/css/main.3cdad599.chunk.css.map": "/fuel-cost-calculator/static/css/main.3cdad599.chunk.css.map",
     "static/js/2.bea8bea5.chunk.js.LICENSE.txt": "/fuel-cost-calculator/static/js/2.bea8bea5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/fuel-cost-calculator/static/media/Shift-BoldItalic.144e2c1f.otf"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.b6702cd0.js",
     "static/css/2.21b75788.chunk.css",
     "static/js/2.bea8bea5.chunk.js",
-    "static/css/main.7192a36a.chunk.css",
-    "static/js/main.e2b8a571.chunk.js"
+    "static/css/main.3cdad599.chunk.css",
+    "static/js/main.dda260c9.chunk.js"
   ]
 }
