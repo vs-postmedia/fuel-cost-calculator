@@ -16,7 +16,7 @@
 
 @media only screen and (min-width: 550px) {
     /* Style adjustments for viewports that meet the condition */
-	.App footer {
+/*	.App footer {
 		display: flex;
 		justify-content: space-between;
 	}
@@ -25,5 +25,5 @@
 	}
 	.App footer .source:nth-child(2) {
 		text-align: right;
-	}
+	}*/
 }

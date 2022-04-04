@@ -13,6 +13,7 @@
 }
 .App .results-display {
 	font-size: 2.25rem;
+	line-height: 2.75rem;
 	margin-top: 10px;
 	max-width: 450px;
 	text-align: center;
